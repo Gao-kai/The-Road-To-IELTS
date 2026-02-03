@@ -63,71 +63,71 @@
 
 ## `tract`
 
-- abstract v 提取 n 摘要 adj 抽象的
-- tractor n 拖拉机
-- subtract v 减去
-- subtraction n 减法
-- reduce v 减少
-- reduction n 减少，下降，降价
-- contract n 合同 v 与……订立合同 v 缩小
-- contractor n 承包商
-- contraction n 缩小，减少
-- attract v 吸引
-- attraction n 吸引力
-- attractive adj 有吸引力的
-- induce v 劝导，诱导 v 引产
-- inducement n 引诱，刺激 n 诱因，动机
-- motivate v 刺激，产生动机
-- hook n 钩子 
-- distract v 使……分心
-- distraction n 分心的事物
-- fascinate v 深深吸引，迷住
-- fascinating adj 令人着迷的
-- fascination n 魅力，吸引力 n 陶醉，迷恋
-- fantasy n 幻想
-- fantastic adj 荒诞的，奇怪的 adj 出色的，了不起的
-- fancy n 想象力，幻想 v 想象，设想 adj 想象的
-- illusion n 幻想，错觉
-- illusory adj 幻觉的，虚假的
-- illuminate v 照明，照亮 v 说明，阐述
-- illumination n 照明 n 阐明，解释（教科书中的插图）
+- [ ] abstract v 提取 n 摘要 adj 抽象的
+- [ ] tractor n 拖拉机
+- [ ] subtract v 减去
+- [ ] subtraction n 减法
+- [ ] reduce v 减少
+- [ ] reduction n 减少，下降，降价
+- [ ] contract n 合同 v 与……订立合同 v 缩小
+- [ ] contractor n 承包商
+- [ ] contraction n 缩小，减少
+- [ ] attract v 吸引
+- [ ] attraction n 吸引力
+- [ ] attractive adj 有吸引力的
+- [ ] induce v 劝导，诱导 v 引产
+- [ ] inducement n 引诱，刺激 n 诱因，动机
+- [ ] motivate v 刺激，产生动机
+- [ ] hook n 钩子 
+- [ ] distract v 使……分心
+- [ ] distraction n 分心的事物
+- [ ] fascinate v 深深吸引，迷住
+- [ ] fascinating adj 令人着迷的
+- [ ] fascination n 魅力，吸引力 n 陶醉，迷恋
+- [ ] fantasy n 幻想
+- [ ] fantastic adj 荒诞的，奇怪的 adj 出色的，了不起的
+- [ ] fancy n 想象力，幻想 v 想象，设想 adj 想象的
+- [ ] illusion n 幻想，错觉
+- [ ] illusory adj 幻觉的，虚假的
+- [ ] illuminate v 照明，照亮 v 说明，阐述
+- [ ] illumination n 照明 n 阐明，解释（教科书中的插图）
 
 ## `持续的，裸露的`
 
-- plastic n 塑料 adj 可塑的，塑料的
-- permanent adj 永恒的，永久的
-- permanence n 永久，永恒
-- eternal adj 永恒的，不朽的
-- eternity n 永恒，永生
-- internal adj 内部的，国内的
-- external adj 外部的，表面的 n 外部
-- bare adj 裸露的 v 使……裸露，暴露
-- barely adv 几乎不，仅仅
-- hardly adv 几乎不
-- mere adj 仅仅，只不过，简直
-- merely adj 仅仅，只不过
-- sole adj 仅有的，独有的，唯一的 n 鞋底
-- solely adv 仅仅，唯一地
-- schema n 模式，计划
-- scheme n 阴谋，计划 v 谋划
+- [ ] plastic n 塑料 adj 可塑的，塑料的
+- [ ] permanent adj 永恒的，永久的
+- [ ] permanence n 永久，永恒
+- [ ] eternal adj 永恒的，不朽的
+- [ ] eternity n 永恒，永生
+- [ ] internal adj 内部的，国内的
+- [ ] external adj 外部的，表面的 n 外部
+- [ ] bare adj 裸露的 v 使……裸露，暴露
+- [ ] barely adv 几乎不，仅仅
+- [ ] hardly adv 几乎不
+- [ ] mere adj 仅仅，只不过，简直
+- [ ] merely adj 仅仅，只不过
+- [ ] sole adj 仅有的，独有的，唯一的 n 鞋底
+- [ ] solely adv 仅仅，唯一地
+- [ ] schema n 模式，计划
+- [ ] scheme n 阴谋，计划 v 谋划
 
 ## `事故`
 
-- accident n 事故，意外
-- accidental adj 意外的，偶然的
-- incident n 事件
-- incidental adj 附属的，次要的 adj 偶然的
-- incidentally adv 偶然的
-- incidence n 发生率，影响范围
-- occasion n 场合，时机，机会
-- occasionally adv 偶尔
-- occasional adj 偶尔的，不经意的
-- casual adj 不经意的，非正式的，随便的
-- chance n 机会，时机
-- opportunity n 机会
-- potential adj 潜在的 n 潜力
-- potentiality n 潜力，可能性
-- occur v 出现
-- occurrence n 出现，发生的事件
-- curb v 限制，抑制
-- spot n 污点，地点，场所 v 认出，发现
+- [ ] accident n 事故，意外
+- [ ] accidental adj 意外的，偶然的
+- [ ] incident n 事件
+- [ ] incidental adj 附属的，次要的 adj 偶然的
+- [ ] incidentally adv 偶然的
+- [ ] incidence n 发生率，影响范围
+- [ ] occasion n 场合，时机，机会
+- [ ] occasionally adv 偶尔
+- [ ] occasional adj 偶尔的，不经意的
+- [ ] casual adj 不经意的，非正式的，随便的
+- [ ] chance n 机会，时机
+- [ ] opportunity n 机会
+- [ ] potential adj 潜在的 n 潜力
+- [ ] potentiality n 潜力，可能性
+- [ ] occur v 出现
+- [ ] occurrence n 出现，发生的事件
+- [ ] curb v 限制，抑制
+- [ ] spot n 污点，地点，场所 v 认出，发现
