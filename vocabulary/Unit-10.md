@@ -78,7 +78,7 @@
 - [ ] induce v 劝导，诱导 v 引产
 - [ ] inducement n 引诱，刺激 n 诱因，动机
 - [ ] motivate v 刺激，产生动机
-- [ ] hook n 钩子 
+- [ ] hook n 钩子
 - [ ] distract v 使……分心
 - [ ] distraction n 分心的事物
 - [ ] fascinate v 深深吸引，迷住
