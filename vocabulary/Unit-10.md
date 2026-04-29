@@ -53,11 +53,9 @@
 - [ ] possibility n 可能性
 - [ ] impossible adj 不可能的
 - [ ] impossibility n 几乎不可能发生的事
-
 - [ ] probable abj 很可能的
 - [ ] probably adv 或许，大概
 - [ ] probability n 可能性 n 概率，几率
-
 - [ ] significance n 重大意义，重要性
 - [ ] significant adj 重要的，重大的 adj 有意义的
 
